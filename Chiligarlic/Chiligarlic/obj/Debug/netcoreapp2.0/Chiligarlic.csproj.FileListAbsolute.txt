@@ -1,0 +1,11 @@
+C:\Users\159778\Desktop\FoodAdventures\Chiligarlic\Chiligarlic\bin\Debug\netcoreapp2.0\Chiligarlic.deps.json
+C:\Users\159778\Desktop\FoodAdventures\Chiligarlic\Chiligarlic\bin\Debug\netcoreapp2.0\Chiligarlic.runtimeconfig.json
+C:\Users\159778\Desktop\FoodAdventures\Chiligarlic\Chiligarlic\bin\Debug\netcoreapp2.0\Chiligarlic.runtimeconfig.dev.json
+C:\Users\159778\Desktop\FoodAdventures\Chiligarlic\Chiligarlic\bin\Debug\netcoreapp2.0\Chiligarlic.dll
+C:\Users\159778\Desktop\FoodAdventures\Chiligarlic\Chiligarlic\bin\Debug\netcoreapp2.0\Chiligarlic.pdb
+C:\Users\159778\Desktop\FoodAdventures\Chiligarlic\Chiligarlic\obj\Debug\netcoreapp2.0\Chiligarlic.csproj.CoreCompileInputs.cache
+C:\Users\159778\Desktop\FoodAdventures\Chiligarlic\Chiligarlic\obj\Debug\netcoreapp2.0\Chiligarlic.AssemblyInfoInputs.cache
+C:\Users\159778\Desktop\FoodAdventures\Chiligarlic\Chiligarlic\obj\Debug\netcoreapp2.0\Chiligarlic.AssemblyInfo.cs
+C:\Users\159778\Desktop\FoodAdventures\Chiligarlic\Chiligarlic\obj\Debug\netcoreapp2.0\Chiligarlic.dll
+C:\Users\159778\Desktop\FoodAdventures\Chiligarlic\Chiligarlic\obj\Debug\netcoreapp2.0\Chiligarlic.pdb
+C:\Users\159778\Desktop\FoodAdventures\Chiligarlic\Chiligarlic\obj\Debug\netcoreapp2.0\Chiligarlic.csprojResolveAssemblyReference.cache

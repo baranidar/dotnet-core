@@ -1,0 +1,19 @@
+﻿@using Chiligarlic.Models
+@model Recipe
+
+    <h1>Create</h1>
+<form method="post">
+    <div>
+        <label asp-for="Name"></label>
+    <input asp-for="Name" />
+        <span asp-validation-for="Name"></span>
+    </div>
+
+    <div>
+        <label asp-for="Timeofday"></label>
+        <select asp-for="Timeofday"
+                asp-items="@Html.GetEnumSelectList<TimeofdayType>()"></select>
+        <span asp-validation-for="Timeofday"></span>
+    </div>
+<input type ="submit" name="save" value="Save" />
+    </form>

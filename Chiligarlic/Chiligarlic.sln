@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chiligarlic", "Chiligarlic\Chiligarlic.csproj", "{5FFF8C0C-F24D-4632-B861-5E6164825C2A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5FFF8C0C-F24D-4632-B861-5E6164825C2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FFF8C0C-F24D-4632-B861-5E6164825C2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FFF8C0C-F24D-4632-B861-5E6164825C2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FFF8C0C-F24D-4632-B861-5E6164825C2A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4A36CDD6-DB2D-49A6-994D-93DF3ABA5C18}
+	EndGlobalSection
+EndGlobal
