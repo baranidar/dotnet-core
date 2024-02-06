@@ -1,1 +1,2 @@
-https://chilligarlic.azurewebsites.net/
+shakthisfoodadventures.azurewebsites.net
+https://chilligarlic.azurewebsites.net/  -- responsive
